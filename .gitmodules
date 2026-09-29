@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/sashelper/sashelper.r-universe.dev
 	branch = HEAD
+[submodule "sdv"]
+	path = sdv
+	url = https://github.com/sashelper/sdv
