@@ -1,0 +1,10 @@
+{
+  "id": 166180130,
+  "created_at": "2026-09-29T14:27:25.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["sdv"]
+}
